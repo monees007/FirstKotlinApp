@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First kotlin app</string>
+    <string name="next_button">Next</string>
+    <string name="toast_button">Toast</string>
+    <string name="random_button">Random</string>
+    <string name="hello_kotlin">0</string>
+    <string name="back_button">Back</string>
+</resources>
